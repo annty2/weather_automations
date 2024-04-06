@@ -1,0 +1,1 @@
+from automation_framework.sql_quries.sql_query import SQLQuery
