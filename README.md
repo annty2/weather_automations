@@ -40,5 +40,3 @@ Ensure that `requests` and `pytest` are included in your installations.
 
 - **Task 1 & 2:** To run the tests related to the OpenWeather API, execute the following command:
 - **Task 4:** To run the weather analysis automation script, use:
-
-```
